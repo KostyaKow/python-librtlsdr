@@ -14,7 +14,7 @@ librtlsdr compiled as a DLL
  -- David Basden <davidb-sdr@rcpt.to>
 
 
-
+sudo apt-get install librtlsdr0 rtl-sdr
 
 http://gnuradio.org/redmine/projects/gnuradio/wiki/HowToUse
 https://www.reddit.com/r/RTLSDR/comments/rrgw3/put_together_a_simple_python_wrapper_on_top_of/
